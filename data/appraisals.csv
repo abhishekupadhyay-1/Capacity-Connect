@@ -1,0 +1,52 @@
+appraisal_id,employee_id,appraisal_date,performance_score,remarks
+A001,E101,2023-06-15,85.0,Excellent work on cloud migration project. Shows strong technical leadership.
+A002,E102,2023-06-20,72.0,Good HR initiatives but needs to improve documentation practices.
+A003,E103,2023-07-01,45.0,Missed several deadlines. Needs improvement in time management.
+A004,E104,2023-06-18,92.0,Outstanding performance. Led team through critical product launch.
+A005,E105,2023-06-25,68.0,Manages operations efficiently but communication with other teams needs work.
+A006,E106,2023-07-05,55.0,Marketing campaigns show creativity but ROI needs improvement.
+A007,E107,2023-06-28,88.0,DevOps pipelines significantly improved. Reduced deployment time by 40%.
+A008,E108,2023-07-10,40.0,Struggling with workload management. Requires mentorship.
+A009,E109,2023-07-08,78.0,Consistent performer. Year-end audits completed on time.
+A010,E110,2023-07-12,82.0,Excellent brand strategy execution. Team player and mentor.
+A011,E111,2023-07-15,35.0,Several bugs missed during QA. Needs additional training.
+A012,E112,2023-07-18,60.0,Good coordination but logistics delays need addressing.
+A013,E113,2023-07-20,90.0,Exceeded sales target by 25%. Excellent client relationship management.
+A014,E114,2023-07-22,70.0,Frontend work is clean but timeline adherence needs improvement.
+A015,E115,2023-06-30,95.0,Exceptional leadership. Successfully restructured finance department.
+A016,E116,2023-07-25,62.0,Content quality is good. Consistency in publishing schedule needs improvement.
+A017,E117,2023-06-22,80.0,Meets targets consistently. Good team motivator.
+A018,E119,2023-07-28,74.0,Backend APIs well-structured. Code review participation could be better.
+A019,E120,2023-07-30,58.0,Supply chain coordination improved but vendor relations need attention.
+A020,E121,2023-08-01,83.0,Systems analysis reports are thorough and well-documented.
+A021,E122,2023-08-05,47.0,Accounts reconciliation had errors. Needs process review.
+A022,E123,2023-08-08,77.0,Good business development results. Closed 3 major contracts.
+A023,E124,2023-08-10,86.0,Digital campaigns performing above benchmarks. Strong analytics skills.
+A024,E125,2023-08-12,65.0,Payroll processing accurate but response time to queries needs improvement.
+A025,E126,2023-08-15,91.0,Cloud infrastructure optimization excellent. Cost reduced by 30%.
+A026,E127,2023-08-18,52.0,Warehouse operations stable but inventory management needs review.
+A027,E128,2023-08-20,88.0,Regional sales targets surpassed. Excellent stakeholder management.
+A028,E129,2023-08-22,43.0,Tax filing errors need correction. Additional training recommended.
+A029,E130,2023-08-25,79.0,Security protocols well-maintained. Incident response was timely.
+A030,E131,2023-08-28,96.0,SEO rankings improved dramatically. Outstanding strategic thinking.
+A031,E132,2023-09-01,56.0,Fleet management improved but fuel cost optimization needed.
+A032,E133,2023-09-05,84.0,Training programs highly rated by employees. Very effective.
+A033,E134,2023-09-08,73.0,Key accounts retained successfully. Upselling performance needs boost.
+A034,E135,2023-09-12,48.0,Budget forecasting had inaccuracies. Needs data skills development.
+A035,E136,2023-09-15,81.0,Network uptime maintained at 99.5%. Proactive monitoring excellent.
+A036,E137,2023-09-18,67.0,PR campaigns moderately successful. Crisis communication needs work.
+A037,E138,2023-09-22,75.0,Process improvements documented well. Implementation speed could improve.
+A038,E139,2023-09-25,50.0,Meets minimum targets. Needs motivational support and coaching.
+A039,E140,2023-09-28,87.0,Data pipelines efficient and reliable. Great collaboration with teams.
+A040,E141,2023-10-02,69.0,Compensation benchmarking report was accurate and timely.
+A041,E142,2023-10-05,93.0,Investment analysis reports impressive. High accuracy and depth.
+A042,E143,2023-10-08,76.0,Design work is creative and brand-aligned. Meeting deadlines better.
+A043,E144,2023-10-12,38.0,Quality inspection reports incomplete. Needs process adherence training.
+A044,E101,2024-06-10,89.0,Promoted to tech lead. Excellent mentoring and project delivery.
+A045,E104,2024-06-15,95.0,Delivered critical AI integration project ahead of schedule.
+A046,E107,2024-06-18,91.0,Automated CI/CD pipeline reduction in failures by 60%.
+A047,E113,2024-06-20,94.0,Set record sales figure for Q2. Exceptional client acquisition.
+A048,E115,2024-06-22,97.0,Recognized as top performer company-wide. Leadership exemplary.
+A049,E103,2024-07-01,55.0,Improved time management after coaching. Steady progress.
+A050,E108,2024-07-05,62.0,Showing significant improvement after mentorship program.
+A051,E101,2026-10-21,52.0,Standard appraisal record.

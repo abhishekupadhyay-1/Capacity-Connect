@@ -1,0 +1,46 @@
+employee_id,name,department,designation,email,joining_date
+E101,Rahul Sharma,IT,Software Engineer,rahul.sharma@company.com,2021-03-15
+E102,Priya Patel,HR,HR Manager,priya.patel@company.com,2019-07-01
+E103,Amit Kumar,Finance,Financial Analyst,amit.kumar@company.com,2020-11-20
+E104,Sneha Verma,IT,Senior Developer,sneha.verma@company.com,2018-05-10
+E105,Rahul Mehta,Operations,Operations Manager,rahul.mehta@company.com,2017-02-28
+E106,Divya Singh,Marketing,Marketing Executive,divya.singh@company.com,2022-01-15
+E107,Arjun Nair,IT,DevOps Engineer,arjun.nair@company.com,2021-09-01
+E108,Pooja Gupta,HR,HR Executive,pooja.gupta@company.com,2023-03-10
+E109,Vikram Joshi,Finance,Senior Accountant,vikram.joshi@company.com,2016-06-22
+E110,Neha Reddy,Marketing,Brand Manager,neha.reddy@company.com,2020-04-18
+E111,Suresh Iyer,IT,QA Engineer,suresh.iyer@company.com,2022-07-05
+E112,Anita Desai,Operations,Logistics Coordinator,anita.desai@company.com,2021-12-01
+E113,Karan Kapoor,Sales,Sales Executive,karan.kapoor@company.com,2020-08-14
+E114,Meera Pillai,IT,Frontend Developer,meera.pillai@company.com,2023-01-20
+E115,Ravi Tiwari,Finance,Finance Manager,ravi.tiwari@company.com,2015-09-30
+E116,Sonal Shah,Marketing,Content Writer,sonal.shah@company.com,2022-05-11
+E117,Deepak Rao,Sales,Sales Manager,deepak.rao@company.com,2018-11-03
+E118,Anjali Bhatt,HR,Recruiter,anjali.bhatt@company.com,2023-06-01
+E119,Manish Saxena,IT,Backend Developer,manish.saxena@company.com,2020-02-17
+E120,Kavita Mishra,Operations,Supply Chain Analyst,kavita.mishra@company.com,2019-10-08
+E121,Rohit Bansal,IT,Systems Analyst,rohit.bansal@company.com,2021-04-25
+E122,Priyanka Choudhary,Finance,Accounts Executive,priyanka.choudhary@company.com,2022-09-19
+E123,Gaurav Menon,Sales,Business Development,gaurav.menon@company.com,2020-07-30
+E124,Swati Agarwal,Marketing,Digital Marketing,swati.agarwal@company.com,2021-11-22
+E125,Nitin Ghosh,HR,Payroll Executive,nitin.ghosh@company.com,2019-03-14
+E126,Rahul Kumar,IT,Cloud Engineer,rahul.kumar@company.com,2023-02-08
+E127,Lakshmi Naidu,Operations,Warehouse Manager,lakshmi.naidu@company.com,2017-08-19
+E128,Sameer Malhotra,Sales,Regional Sales Head,sameer.malhotra@company.com,2016-12-05
+E129,Ritu Pandey,Finance,Tax Consultant,ritu.pandey@company.com,2021-05-17
+E130,Harish Dubey,IT,Security Analyst,harish.dubey@company.com,2022-10-03
+E131,Pallavi Shetty,Marketing,SEO Specialist,pallavi.shetty@company.com,2023-04-12
+E132,Suraj Patil,Operations,Fleet Manager,suraj.patil@company.com,2020-01-06
+E133,Nisha Thakur,HR,Training Manager,nisha.thakur@company.com,2018-07-25
+E134,Abhijit Roy,Sales,Key Account Manager,abhijit.roy@company.com,2019-11-10
+E135,Leena Bose,Finance,Budget Analyst,leena.bose@company.com,2022-03-29
+E136,Faisal Khan,IT,Network Engineer,faisal.khan@company.com,2021-08-14
+E137,Usha Chopra,Marketing,PR Manager,usha.chopra@company.com,2020-06-02
+E138,Prakash Nambiar,Operations,Process Analyst,prakash.nambiar@company.com,2023-07-18
+E139,Smita Kulkarni,Sales,Inside Sales Rep,smita.kulkarni@company.com,2022-11-30
+E140,Dinesh Tripathi,IT,Data Engineer,dinesh.tripathi@company.com,2020-09-21
+E141,Tanvi Mehta,HR,Compensation Analyst,tanvi.mehta@company.com,2021-06-09
+E142,Ashwin Pillai,Finance,Investment Analyst,ashwin.pillai@company.com,2019-04-23
+E143,Preeti Jain,Marketing,Graphic Designer,preeti.jain@company.com,2022-12-07
+E144,Vivek Srivastava,Operations,Quality Inspector,vivek.srivastava@company.com,2018-03-16
+E145,Rahul Singh,Sales,Sales Trainee,rahul.singh@company.com,2024-01-10

@@ -1,0 +1,51 @@
+feedback_id,employee_id,feedback_type,comments,feedback_date
+F001,E101,Positive,Rahul consistently goes above and beyond in project delivery. Team highly respects him.,2023-07-01
+F002,E102,Improvement Needed,HR policies need to be communicated more clearly to all departments.,2023-07-05
+F003,E103,Improvement Needed,Amit needs to prioritize tasks better and communicate blockers early.,2023-07-10
+F004,E104,Positive,Sneha is an outstanding developer who sets the bar for the entire team.,2023-07-12
+F005,E105,General,Rahul Mehta manages operations well. Cross-team collaboration could be enhanced.,2023-07-15
+F006,E106,Improvement Needed,Marketing plans need better alignment with sales targets.,2023-07-18
+F007,E107,Positive,Arjun has transformed our deployment process. Zero downtime deployments are now standard.,2023-07-20
+F008,E108,Improvement Needed,Pooja needs more support in handling high-volume recruitment periods.,2023-07-22
+F009,E109,Positive,Vikram is a reliable finance professional. Year-end reports were impeccable.,2023-07-25
+F010,E110,Positive,Neha has driven brand awareness significantly. Great campaign results.,2023-07-28
+F011,E111,Improvement Needed,Suresh needs to adopt more rigorous testing methods to reduce bug escapes.,2023-07-30
+F012,E112,General,Anita coordinates logistics effectively under pressure.,2023-08-01
+F013,E113,Positive,Karan is our star salesperson. His client relationships are unmatched.,2023-08-05
+F014,E114,General,Meera delivers quality UI work. Could benefit from agile training.,2023-08-08
+F015,E115,Positive,Ravi leads the finance team with exceptional vision and discipline.,2023-08-10
+F016,E116,Improvement Needed,Sonal needs to maintain a more consistent content calendar.,2023-08-12
+F017,E117,Positive,Deepak motivates his sales team well. Targets consistently met.,2023-08-15
+F018,E118,General,Anjali is new but showing promise in candidate screening.,2023-08-18
+F019,E119,Positive,Manish writes clean and well-documented code. Great to work with.,2023-08-20
+F020,E120,Improvement Needed,Kavita should work on building stronger vendor partnerships.,2023-08-22
+F021,E121,Positive,Rohit's systems analysis has helped optimize three major processes.,2023-08-25
+F022,E122,Improvement Needed,Priyanka had reconciliation issues this quarter. Needs double-checking process.,2023-08-28
+F023,E123,Positive,Gaurav brought in three enterprise clients this quarter.,2023-09-01
+F024,E124,Positive,Swati's digital campaigns have been highly effective and data-driven.,2023-09-05
+F025,E125,General,Nitin processes payroll accurately. Communication responsiveness can improve.,2023-09-08
+F026,E126,Positive,Rahul Kumar is exceptional in cloud architecture design.,2023-09-12
+F027,E127,Improvement Needed,Lakshmi needs to address growing inventory discrepancies.,2023-09-15
+F028,E128,Positive,Sameer has built outstanding regional sales networks.,2023-09-18
+F029,E129,Improvement Needed,Ritu needs to review tax calculation procedures to avoid errors.,2023-09-22
+F030,E130,Positive,Harish keeps our systems secure. His threat analysis is thorough.,2023-09-25
+F031,E131,Positive,Pallavi increased organic traffic by 150%. Incredible SEO results.,2023-09-28
+F032,E132,General,Suraj manages fleet logistics reasonably well under constraints.,2023-10-01
+F033,E133,Positive,Nisha's training programs have boosted team productivity noticeably.,2023-10-05
+F034,E134,General,Abhijit maintains good client relationships but needs to upsell more.,2023-10-08
+F035,E135,Improvement Needed,Leena needs to sharpen forecasting skills with better data tools.,2023-10-12
+F036,E136,Positive,Faisal ensures network reliability with impressive proactive monitoring.,2023-10-15
+F037,E137,General,Usha handles PR campaigns with moderate success. Crisis skills need sharpening.,2023-10-18
+F038,E138,General,Prakash documents processes well. Execution speed is a noted concern.,2023-10-22
+F039,E139,Improvement Needed,Smita needs stronger product knowledge to improve inside sales conversion.,2023-10-25
+F040,E140,Positive,Dinesh built the data pipeline architecture from scratch — excellent job.,2023-10-28
+F041,E141,General,Tanvi's compensation reports are accurate and delivered on time.,2023-11-01
+F042,E142,Positive,Ashwin's investment analysis is highly regarded by senior management.,2023-11-05
+F043,E143,General,Preeti's designs are creative but project timelines need better tracking.,2023-11-08
+F044,E144,Improvement Needed,Vivek's inspection reports need to be more thorough and timely.,2023-11-12
+F045,E101,Positive,Rahul mentors junior developers effectively. Great team leader.,2024-01-15
+F046,E113,Positive,Karan broke the company's quarterly sales record. Phenomenal achievement.,2024-02-10
+F047,E104,Positive,Sneha's AI integration project is a landmark achievement for the company.,2024-03-20
+F048,E115,Positive,Ravi is consistently praised by board members for financial strategy excellence.,2024-04-05
+F049,E103,General,Amit has shown visible improvement in time management after coaching.,2024-05-12
+F050,E108,Positive,Pooja has greatly improved her workload management and team communication.,2024-06-01
